@@ -4,7 +4,6 @@
   - [SUMMARY](#summary)
   - [RULES](#rules)
 - [REPOS](#repos)
-  - [SOLITARE.JS](#solitare.js)
 - [LICENSING](#licensing)
 
 ### IN A DAY
