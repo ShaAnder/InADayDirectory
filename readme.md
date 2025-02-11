@@ -15,6 +15,8 @@ In a day is a project / challenge i started to showcase my ever growing skillset
 
 I will theorycraft, design and build as much of a project as I can in a day, while the project itself will not be complete i will always aim to build a readme that details what was done, how it works and what's still left to finish. (these will likely come a few days after initial project is done with, as im not counting the readme as part of the project timeline)
 
+On a final note i will not be building a project every day as im currently a uni student and looking for full time work too, this is just projects built in one day.
+
 #### RULES
 
 So in short the self imposed rules I set for this directory are as follows:
