@@ -34,4 +34,4 @@ So in short the self imposed rules I set for this directory are as follows:
 
 ### LICENSING
 
-All projects build and contained as part of this project or journey are MIT GPL3 licensed, People are free to use and modify them WITH credit to me as the original author.
+All projects build and contained as part of this project or journey are GPL3 licensed, People are free to use and modify them WITH credit to me as the original author.
